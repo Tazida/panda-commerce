@@ -6,7 +6,7 @@
   color: rgb(249, 55, 87);
 }
 .buy-now-button {
-  background-image: linear-gradient(to bottom, #ff5e7b 0%, #fb4b68 100%);
+  background-image: linear-gradient(to bottom, #f83b5d 0%, #ff4262 100%);
   border: none;
   color: #fff;
   padding: 9px 25px;
@@ -15,4 +15,12 @@
 }
 .catagories img {
   width: 100px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.form {
+  height: 300px;
 }
